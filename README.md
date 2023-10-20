@@ -7,10 +7,11 @@
 - Add different themes for the day🌞/night🌜.
 - Sound effects to the buttons.🔊
 
-## Tools 📌:
+## Languajes / Tools 📌:
 - HTML
 - CSS
 - JavaScript
+- VSCode
 
 ## Author:
 - Juan Ramirez 😃
